@@ -1,0 +1,11 @@
+(module LOGO (layer F.Cu) (tedit 591A39FA)
+  (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value LOGO (at 0 -1) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user MR-electronic (at 0 0) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
